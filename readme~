@@ -1,7 +1,0 @@
-provide account credentials in imap.rb
-$ruby compare.rb
-
-visit link in browser and provide credentials for gmail rest api
-
-copy the resulting string in terminal
-
